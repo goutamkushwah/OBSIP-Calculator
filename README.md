@@ -1,1 +1,1 @@
-# OBSIP-Calculator
+# calculator
